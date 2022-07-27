@@ -1,0 +1,2 @@
+Para esse projeto o armazenamento será feito no Local Storage.
+No Local Storage vai ter um Array, onde cada item será renderizado em tela.A aplicação é responsiva. Como funciona? Para incluir um item basta clicar no botão incluir, então vai aparecer um modal onde você pode colocar os dados de Nome, Função e Salário e clicando em salvar, já vai atualizar na tela. Temos também a opção de Editar e Excluir. 
