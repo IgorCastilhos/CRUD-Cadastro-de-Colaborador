@@ -2,7 +2,7 @@
 ![Captura de Tela (77)](https://user-images.githubusercontent.com/101683017/182075000-c6e82762-ee37-4c09-8b26-f5c946f52e5f.png)
 ![Captura de Tela (76)](https://user-images.githubusercontent.com/101683017/182074922-7561b2ee-a5fd-4895-8f16-8adf9a3999a7.png)
 ************************************************************************************************************
-Programa: [CRUD] Cadastro de Funcionários
+Programa: [CRUD] Cadastro de Colaborador
 <br>
 Autor: Igor Castilhos
 <br>
